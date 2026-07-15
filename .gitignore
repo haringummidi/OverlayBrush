@@ -1,0 +1,20 @@
+.DS_Store
+
+# Xcode
+DerivedData/
+build/
+*.xcresult
+*.xccheckout
+*.xcscmblueprint
+
+# User-specific Xcode state
+xcuserdata/
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# macOS
+*.swp
+*.lock
