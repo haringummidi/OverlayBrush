@@ -2,6 +2,10 @@
 
 OverlayBrush is a lightweight macOS screen annotation app for demos, teaching, recordings, design reviews, and live presentations. It gives you a transparent drawing layer across your displays so you can mark up anything on screen without switching tools or interrupting your flow.
 
+<p align="center">
+  <img src="design/overlaybrush-logo.png" alt="OverlayBrush logo" width="160">
+</p>
+
 ## Why OverlayBrush?
 
 Most annotation tools are either tied to a specific meeting app, too heavy for quick demos, or awkward when you need to draw over any app. OverlayBrush is built as a native macOS overlay: open it, draw on top of the screen, then toggle back to click-through mode when you need to interact with the app underneath.
